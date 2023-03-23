@@ -21,6 +21,6 @@
   - [Alura+ - Novidades do Java 9 e para frente](https://www.alura.com.br/videos/novidades-do-java-9-e-para-frente-c228)
   - [Curso TDD e Java: testes automatizados com JUnit]()
   
- * Hora de praticar
-  -[7 days of Code: Mini curso Alura](https://7daysofcode.io/matricula/java)
+ * Hora de praticar    
+   - [7 days of Code: Mini curso Alura](https://7daysofcode.io/matricula/java)
  
