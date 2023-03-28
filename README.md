@@ -7,7 +7,7 @@
   - [Java Polimorfismo: entenda herança e interfaces](https://github.com/wherculano/Java-Heranca-Interfaces-Polimorfismo)
   - [O que são Enums no Java: video da Alura](https://www.alura.com.br/videos/o-que-sao-enums-no-java--c81)
   - [O que são Anotações no Java: video da Alura](https://www.alura.com.br/videos/o-que-sao-anotacoes-no-java--c131)
-  - [Curso Java Exceções: aprenda a criar, lançar e controlar exceções]()  
+  - [Curso Java Exceções: aprenda a criar, lançar e controlar exceções](https://github.com/wherculano/Java-Excecoes-aprenda-a-criar-lancar-e-controlar-excecoes)  
   
 * Conhecer as principais bibliotecas
   - [Curso Java e java.lang: programe com a classe Object e String]()
