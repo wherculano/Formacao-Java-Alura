@@ -10,7 +10,7 @@
   - [Curso Java Exceções: aprenda a criar, lançar e controlar exceções](https://github.com/wherculano/Java-Excecoes-aprenda-a-criar-lancar-e-controlar-excecoes)  
   
 * Conhecer as principais bibliotecas
-  - [Curso Java e java.lang: programe com a classe Object e String]()
+  - [Curso Java e java.lang: programe com a classe Object e String](https://github.com/wherculano/Java-e-java.lang-programe-com-a-classe-Object-e-String)
   - [Curso Java e java.util: Coleções, Wrappers e Lambda expressions]()
   - [Curso Java e java.io: Streams, Reader e Writers]()
   - [Curso Java Collections: Dominando Listas, Sets e Mapas]()
