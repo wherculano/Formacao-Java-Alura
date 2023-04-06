@@ -13,7 +13,7 @@
   - [Curso Java e java.lang: programe com a classe Object e String](https://github.com/wherculano/Java-e-java.lang-programe-com-a-classe-Object-e-String)
   - [Curso Java e java.util: Coleções, Wrappers e Lambda expressions](https://github.com/wherculano/Java-e-java-util-Colecoes-Wrappers-e-Lambda-expressions)
   - [Curso Java e java.io: Streams, Reader e Writers](https://github.com/wherculano/Java-trabalhando-com-io)
-  - [Curso Java Collections: Dominando Listas, Sets e Mapas]()
+  - [Curso Java Collections: Dominando Listas, Sets e Mapas](https://github.com/wherculano/Java-Collections-Dominando-Listas-Sets-e-Mapas)
   
  
 * Aprofundar em Java moderno e TDD
