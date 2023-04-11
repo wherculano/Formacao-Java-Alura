@@ -19,7 +19,7 @@
 * Aprofundar em Java moderno e TDD
   - [Curso Java 8: conheça as novidades dessa versão](https://github.com/wherculano/Java-8-conheca-as-novidades-dessa-versao)
   - [Alura+ - Novidades do Java 9 e para frente](https://www.alura.com.br/videos/novidades-do-java-9-e-para-frente-c228)
-  - [Curso TDD e Java: testes automatizados com JUnit]()
+  - [Curso TDD e Java: testes automatizados com JUnit](https://github.com/wherculano/Java-TDD-testes-automatizados-JUnit)
   
  * Hora de praticar    
    - [7 days of Code: Mini curso Alura](https://7daysofcode.io/matricula/java)
