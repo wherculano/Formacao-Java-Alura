@@ -23,7 +23,7 @@
 ## [Formação Spring Boot 3](https://www.alura.com.br/formacao-spring-boot-3)    
 
 * API RESTful
-  - [Curso Spring Boot 3: desenvolva uma API Rest em Java]() 
+  - [Curso Spring Boot 3: desenvolva uma API Rest em Java](https://github.com/wherculano/Spring-Boot-3-desenvolva-uma-API-Rest-em-Java) 
    
 * Boas práticas    
   - [Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest]()    
