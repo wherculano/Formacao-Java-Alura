@@ -26,7 +26,7 @@
   - [Curso Spring Boot 3: desenvolva uma API Rest em Java](https://github.com/wherculano/Spring-Boot-3-desenvolva-uma-API-Rest-em-Java) 
    
 * Boas práticas    
-  - [Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest]()    
+  - [Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest](https://github.com/wherculano/Spring-Boot-3-aplique-boas-praticas-e-proteja-uma-API-Rest)    
 
 * Desenvolvimento avançado    
   - [Curso Spring Boot 3: documente, teste e prepare uma API para o deploy]()
