@@ -20,7 +20,7 @@
   - [Alura+ - Novidades do Java 9 e para frente](https://www.alura.com.br/videos/novidades-do-java-9-e-para-frente-c228)
   - [Curso TDD e Java: testes automatizados com JUnit](https://github.com/wherculano/Java-TDD-testes-automatizados-JUnit)
   
-## [Formação Spring Boot 3](https://www.alura.com.br/formacao-spring-boot-3)    
+# [Formação Spring Boot 3](https://www.alura.com.br/formacao-spring-boot-3)    
 
 * API RESTful
   - [Curso Spring Boot 3: desenvolva uma API Rest em Java](https://github.com/wherculano/Spring-Boot-3-desenvolva-uma-API-Rest-em-Java) 
@@ -31,3 +31,21 @@
 * Desenvolvimento avançado    
   - [Curso Spring Boot 3: documente, teste e prepare uma API para o deploy](https://github.com/wherculano/Spring-Boot-3-Documente-Teste-e-Prepare-uma-API-para-o-Deploy)
  
+ # [Formação: Arquitetura e Design de Projetos Java](https://www.alura.com.br/formacao-arquitetura-design-projetos-java)
+ 
+* Boas práticas de código
+  - [SOLID com Java: princípios da programação orientada a objetos]()
+  - [Artigo: O que é Clean Code](https://www.alura.com.br/artigos/o-que-e-clean-code)
+ 
+* Modelagem e padrões
+  - [Design Patterns em Java I: boas práticas de programação]()
+  - [Design Patterns em Java II: avançando nas boas práticas de programação]()
+
+* Testes
+  - [Curso TDD e Java: testes automatizados com JUnit](https://github.com/wherculano/Java-TDD-testes-automatizados-JUnit)
+  - [Curso Selenium: testes automatizados de aceitação em Java]()
+  - [Curso BDD e Java: Behavior Driven Development com Cucumber]()
+  
+* Arquitetura
+  - [Curso Java e Clean Architecture: descomplicando arquitetura de software]()
+  - [Curso Java e Domain Driven Design: apresentando os conceitos]()
