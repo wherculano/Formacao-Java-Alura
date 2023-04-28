@@ -34,7 +34,7 @@
  # [Formação: Arquitetura e Design de Projetos Java](https://www.alura.com.br/formacao-arquitetura-design-projetos-java)
  
 * Boas práticas de código
-  - [SOLID com Java: princípios da programação orientada a objetos]()
+  - [SOLID com Java: princípios da programação orientada a objetos](https://github.com/wherculano/SOLID-com-Java-principios-da-programacao-orientada-a-objetos)
   - [Artigo: O que é Clean Code](https://www.alura.com.br/artigos/o-que-e-clean-code)
  
 * Modelagem e padrões
