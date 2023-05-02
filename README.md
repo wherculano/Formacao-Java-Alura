@@ -38,7 +38,7 @@
   - [Artigo: O que é Clean Code](https://www.alura.com.br/artigos/o-que-e-clean-code)
  
 * Modelagem e padrões
-  - [Design Patterns em Java I: boas práticas de programação]()
+  - [Design Patterns em Java I: boas práticas de programação](https://github.com/wherculano/Design-Patterns-em-Java-I-boas-praticas-de-programacao)
   - [Design Patterns em Java II: avançando nas boas práticas de programação]()
 
 * Testes
