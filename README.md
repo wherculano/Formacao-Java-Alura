@@ -39,7 +39,7 @@
  
 * Modelagem e padrões
   - [Design Patterns em Java I: boas práticas de programação](https://github.com/wherculano/Design-Patterns-em-Java-I-boas-praticas-de-programacao)
-  - [Design Patterns em Java II: avançando nas boas práticas de programação]()
+  - [Design Patterns em Java II: avançando nas boas práticas de programação](https://github.com/wherculano/Design-Patterns-em-Java-II-avancando-nas-boas-praticas-de-programacao)
 
 * Testes
   - [Curso TDD e Java: testes automatizados com JUnit](https://github.com/wherculano/Java-TDD-testes-automatizados-JUnit)
