@@ -43,7 +43,7 @@
 
 * Testes
   - [Curso TDD e Java: testes automatizados com JUnit](https://github.com/wherculano/Java-TDD-testes-automatizados-JUnit)
-  - [Curso Selenium: testes automatizados de aceitação em Java]()
+  - [Curso Selenium: testes automatizados de aceitação em Java](https://github.com/wherculano/Selenium-testes-automatizados-de-aceitacao-em-Java)
   - [Curso BDD e Java: Behavior Driven Development com Cucumber]()
   
 * Arquitetura
